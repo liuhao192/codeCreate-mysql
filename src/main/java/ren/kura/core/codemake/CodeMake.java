@@ -153,6 +153,7 @@ public class CodeMake {
         List<EntityMake.FiledInfo> filedInfos = MysqlUtil.queryFields(mysqlConnection);
         //查询描述
         String tableDescription = MysqlUtil.getTableDescription(mysqlConnection);
+
         EntityMake entityMake = new EntityMake();
         entityMake.setPackageName(packageName);
         entityMake.setEntityName(entityName);

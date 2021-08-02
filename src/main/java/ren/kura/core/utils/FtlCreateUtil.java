@@ -4,17 +4,12 @@ import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateExceptionHandler;
 import ren.kura.config.OutPathConfig;
-import ren.kura.core.constants.MakeConstant;
-import ren.kura.core.dto.BaseMake;
-import ren.kura.core.enums.MakeTypeEnum;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.util.HashMap;
-import java.util.Locale;
 import java.util.Map;
 
 /**
@@ -25,7 +20,7 @@ import java.util.Map;
  * @Date: 2021/7/31 2:02 下午
  * @since 1.0
  */
-public class FtlCreateUtil<T extends BaseMake> {
+public class FtlCreateUtil {
 
 
     /**

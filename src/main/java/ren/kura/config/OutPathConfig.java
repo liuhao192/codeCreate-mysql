@@ -3,7 +3,6 @@ package ren.kura.config;
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.util.regex.Matcher;
 
 /**
