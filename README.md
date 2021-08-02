@@ -43,7 +43,7 @@
  ![image-20210801184529968](https://www.kura.ren/upload/2021/08/image-20210801184529968-5736ce5323fc46679d06bc6c65ef25c4.png)
 
 ### 技术文档 
-[项目工具:使用freemarker实现业务代码生成器](https://www.kura.ren/archives/codeCreate)
+[项目工具:使用freemarker实现业务代码生成器](https://www.kura.ren/archives/codecreate)
 
 
 
